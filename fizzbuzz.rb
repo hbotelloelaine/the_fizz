@@ -1,4 +1,4 @@
-require Fizzbuzz.expand_rspec("rspec", _FIZZBUZZ_)
+require 'rspec'
 
 class Fizzbuzz
 	def output(number)
